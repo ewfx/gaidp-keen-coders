@@ -1,0 +1,27 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+
+# CrewAI framework
+crewai>=0.1.30
+
+# Google Generative AI SDK
+google-generativeai>=0.3.0
+
+# Data visualization and analysis
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Machine learning extensions
+#tensorflow>=2.10.0  # Optional: For more advanced anomaly detection
+xgboost>=1.7.0  # Optional: For more sophisticated model building
+
+# Utility libraries
+tqdm>=4.65.0  # For progress bars
+joblib>=1.2.0  # For parallel processing
+python-dotenv>=1.0.0  # For environment variable management
+
+# Web dashboard (optional)
+streamlit>=1.22.0  # Optional: For interactive dashboard
